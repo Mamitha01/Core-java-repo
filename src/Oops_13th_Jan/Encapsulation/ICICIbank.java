@@ -11,7 +11,7 @@ public class ICICIbank {
         this.bal = bal;
     }
 
-    public void setname(){
+    public void setname(String shailu){
         //this.name;
 
     }
